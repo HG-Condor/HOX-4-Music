@@ -1,5 +1,6 @@
-token=NTI0ODM5Mzc3MjUyMjUzNjk2.DyCvLg.14UR2io_QTJVKoRqF-_fgD1uWvo
+token=NTM2OTc1MDUxMDAyNDc4NjAz.Dyeggg.79k8BZgYm_uk1P11Dh_JmGRiubE
 owner=433198762706599936
-prefix=#
+prefix=h
+game=ro7 is here .. ♥
 stayinchannel=true
 songinstatus=true 
