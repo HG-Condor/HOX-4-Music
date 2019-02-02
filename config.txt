@@ -1,6 +1,6 @@
-token=NTM2OTc1MDUxMDAyNDc4NjAz.Dyeggg.79k8BZgYm_uk1P11Dh_JmGRiubE
-owner=433198762706599936
-prefix=h
-game=ro7 is here .. ♥
+token=NTQxMzc5ODE4MjY5MzEwOTg3.DzemyA.hQ5bVwQXc9ltg6XcK_Tx4ettUhI
+owner=512625982751113216
+prefix=2
+game=Condor♥
 stayinchannel=true
 songinstatus=true 
